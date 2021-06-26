@@ -8,6 +8,8 @@ namespace CSharpCore
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to CSharp.");
+            Console.WriteLine("My firt Git Check in");
+
         }
     }
 }
